@@ -30,6 +30,7 @@ Most of my own projects start with a real problem. My father plans his course's 
 | 📬 | **[Mail Triage Bot](https://github.com/AlparslanSemiz/mail-triage-bot)** | Gemini sorts new Outlook mail. Telegram sends urgent alerts and a digest twice a day. |
 | 🏷️ | **[PriceSniper](https://github.com/AlparslanSemiz/priceSniper)** | Watches electronics prices on Geizhals.de and Kleinanzeigen.de and alerts on drops. |
 | 🌙 | **[Namaz Vakti](https://github.com/AlparslanSemiz/namaz-vakti-widget)** | Prayer times widget for macOS and iOS. One network request a day. |
+| ⚖️ | **[Semiz Hukuk Bürosu](https://semizlaw.com)** | Website and technical infrastructure I run for my brothers' law firm in Istanbul. |
 
 ### 🤝 Team projects
 
