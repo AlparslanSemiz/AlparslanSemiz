@@ -19,7 +19,7 @@ Most of my own projects start with a real problem. My father plans his course's 
 |---|---|---|
 | ⌨️ | **[Şerit](https://github.com/AlparslanSemiz/Serit)** | Touch Bar app for MacBook Pro: Dock with badges, now playing (YouTube Music too), volume, brightness, weather and your next event. Recovers on its own when macOS takes the Touch Bar away. |
 | 👋 | **[Veda](https://github.com/AlparslanSemiz/Veda)** | Quits a Mac app when you close its last window, the way Windows does. |
-| 🌙 | **[Namaz Vakti](https://github.com/AlparslanSemiz/prayer-times-widget)** | Prayer times widget for macOS and iOS, for wherever you are. One network request a day. |
+| 🌙 | **[Prayer Times Widget](https://github.com/AlparslanSemiz/prayer-times-widget)** | Prayer times widget for macOS and iOS, for wherever you are. One network request a day. |
 | 🕹️ | **[Godot Mobile Template](https://github.com/AlparslanSemiz/godot-mobile-template)** | Starting point for mobile games in Godot 4.7, with headless tests and smoke runs in CI. |
 
 ### 🌐 Web apps
@@ -35,7 +35,7 @@ Most of my own projects start with a real problem. My father plans his course's 
 | | Project | What it does |
 |---|---|---|
 | 📬 | **[Mail Triage Bot](https://github.com/AlparslanSemiz/mail-triage-bot)** | Gemini sorts new Outlook mail. Telegram sends urgent alerts and a digest twice a day. |
-| 🏷️ | **[PriceSniper](https://github.com/AlparslanSemiz/priceSniper)** | Watches electronics prices on Geizhals.de and Kleinanzeigen.de and alerts on drops. |
+| 🏷️ | **[Price Sniper](https://github.com/AlparslanSemiz/price-sniper)** | Watches electronics prices on Geizhals.de and Kleinanzeigen.de and alerts on drops. |
 
 ### 🤝 Team projects
 
@@ -52,7 +52,7 @@ Most of my own projects start with a real problem. My father plans his course's 
 | Project | What it is | Updated |
 |---|---|---|
 | **[RateMyProf](https://github.com/AlparslanSemiz/rate-my-professor)** | KIT professor-rating platform (PSE team project): Android app, Spring Boot 4 backend and React admin panel with audit log and undo. | today |
-| **[Namaz Vakti](https://github.com/AlparslanSemiz/prayer-times-widget)** | Prayer times widget for macOS and iOS (ScriptWidget), with automatic location and the Diyanet method. | today |
+| **[Prayer Times Widget](https://github.com/AlparslanSemiz/prayer-times-widget)** | Prayer times widget for macOS and iOS (ScriptWidget), with automatic location and the Diyanet method. | today |
 | **[Şerit](https://github.com/AlparslanSemiz/Serit)** | Touch Bar app for MacBook Pro that recovers on its own: dock, now playing (YouTube Music too), volume, brightness, weather. A Pock alternative. | today |
 | **[Veda](https://github.com/AlparslanSemiz/Veda)** | Quits a Mac app when you close its last window. Menu bar app for macOS. | today |
 | **[Godot Mobile Template](https://github.com/AlparslanSemiz/godot-mobile-template)** | Production-ready Godot 4.7 mobile game template: tuned frame pacing, headless tests and smoke runs in CI, AdMob and Play Billing behind switches. | today |
