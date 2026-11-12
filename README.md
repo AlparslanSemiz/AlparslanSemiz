@@ -1,8 +1,7 @@
 <p align="center"><img src="banner.png" alt="Alparslan Semiz" width="100%"></p>
 
 <p align="center">
-  <a href="https://alparslansemiz.github.io"><img src="https://img.shields.io/badge/Website-alparslansemiz.github.io-1c1917?style=for-the-badge&labelColor=ea6c34" alt="Website"></a>
-  <a href="https://alparslansemiz.github.io/cv.html"><img src="https://img.shields.io/badge/CV-read_online-1c1917?style=for-the-badge&labelColor=ea6c34" alt="CV"></a>
+  <a href="https://alparslansemiz.github.io"><img src="https://img.shields.io/badge/CV-alparslansemiz.github.io-1c1917?style=for-the-badge&labelColor=ea6c34" alt="CV"></a>
 </p>
 
 <p align="center">
@@ -57,6 +56,6 @@ Most of my own projects start with a real problem. My father plans his course's 
 
 ### 📫 How to reach me
 
-- Website: <https://alparslansemiz.github.io>
+- CV: <https://alparslansemiz.github.io>
 - LinkedIn: <https://www.linkedin.com/in/alparslansemiz/>
 - Email: alparslansemiz@outlook.com
