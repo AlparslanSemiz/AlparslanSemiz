@@ -17,26 +17,31 @@ Most of my own projects start with a real problem. My father plans his course's 
 
 | | Project | What it does |
 |---|---|---|
-| ⌨️ | **[Şerit](https://github.com/AlparslanSemiz/Serit)** | Touch Bar app for MacBook Pro. Dock with badges, now playing (YouTube Music too), volume, brightness and weather. Recovers on its own when macOS takes the Touch Bar away. |
-| 👋 | **[Veda](https://github.com/AlparslanSemiz/Veda)** | Quits a Mac app when you close its last window, like Windows does. |
+| ⌨️ | **[Şerit](https://github.com/AlparslanSemiz/Serit)** | Touch Bar app for MacBook Pro: Dock with badges, now playing (YouTube Music too), volume, brightness, weather and your next event. Recovers on its own when macOS takes the Touch Bar away. |
+| 👋 | **[Veda](https://github.com/AlparslanSemiz/Veda)** | Quits a Mac app when you close its last window, the way Windows does. |
+| 🌙 | **[Namaz Vakti](https://github.com/AlparslanSemiz/namaz-vakti-widget)** | Prayer times widget for macOS and iOS, for wherever you are. One network request a day. |
 | 🕹️ | **[Godot Mobile Template](https://github.com/AlparslanSemiz/godot-mobile-template)** | Starting point for mobile games in Godot 4.7, with headless tests and smoke runs in CI. |
 
-### 🌱 Projects
+### 🌐 Web apps
 
 | | Project | What it does |
 |---|---|---|
 | 🧩 | **[Mozaik](https://github.com/AlparslanSemiz/Mozaik)** | Offline school timetable builder in a single HTML file, in five languages. 600+ commits. [Try it](https://alparslansemiz.github.io/Mozaik/) |
-| 🎮 | **[GameMetrix](https://github.com/AlparslanSemiz/Gamemetrix)** | Collects game scores from many sources and weights them by reliability. Live at [gamemetrix.me](https://gamemetrix.me) |
+| 🎮 | **[GameMetrix](https://github.com/AlparslanSemiz/Gamemetrix)** | Collects game scores from many sources and weights them by reliability. [gamemetrix.me](https://gamemetrix.me) |
+| ⚖️ | **[Semiz Hukuk Bürosu](https://semizlaw.com)** | Website and technical infrastructure I run for my brothers' law firm in Istanbul. |
+
+### 🤖 Automation
+
+| | Project | What it does |
+|---|---|---|
 | 📬 | **[Mail Triage Bot](https://github.com/AlparslanSemiz/mail-triage-bot)** | Gemini sorts new Outlook mail. Telegram sends urgent alerts and a digest twice a day. |
 | 🏷️ | **[PriceSniper](https://github.com/AlparslanSemiz/priceSniper)** | Watches electronics prices on Geizhals.de and Kleinanzeigen.de and alerts on drops. |
-| 🌙 | **[Namaz Vakti](https://github.com/AlparslanSemiz/namaz-vakti-widget)** | Prayer times widget for macOS and iOS. One network request a day. |
-| ⚖️ | **[Semiz Hukuk Bürosu](https://semizlaw.com)** | Website and technical infrastructure I run for my brothers' law firm in Istanbul. |
 
 ### 🤝 Team projects
 
 | | Project | What it is |
 |---|---|---|
-| 🎓 | **[RateMyProf](https://github.com/AlparslanSemiz/rate-my-professor)** | KIT professor-rating platform with an Android app, a Spring Boot API and a React admin panel. Team of 6. I built the admin panel and settings features in the Android app. |
+| 🎓 | **[RateMyProf](https://github.com/AlparslanSemiz/rate-my-professor)** | KIT professor-rating platform with an Android app, a Spring Boot API and a React admin panel. Team of 6. I built the admin panel, wrote backend tests and fixes, and set up the server and Docker deployment. |
 | 📚 | **I Am In The Library** | Social app that shows which friends are in the library, with geofenced check-ins. React Native, Supabase, PostGIS. Team of 3. |
 | 🧾 | **[InvoiceFlow](https://github.com/AlparslanSemiz/InvoiceFlow)** | Delta's internal invoicing app with PDF export and Factur-X XML. Team of 3. |
 | 🌲 | **[Lost Soul](https://github.com/AlparslanSemiz/lost-soul)** | Dark-and-light platformer from a 3-day hackathon at KIT. Team of 4. I was the gameplay programmer. |
