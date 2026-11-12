@@ -1,29 +1,22 @@
-### Hi, I'm Alparslan 👋
+### Hi, I'm Alparslan
 
-Developer in Karlsruhe — building software at a startup and at [PionierGarage](https://pioniergarage.de), KIT's entrepreneurship club. On the side I make small, sharp tools for real people: a timetable app for my father's course, a bot that triages my inbox, a macOS utility when the existing ones stopped working.
+I study computer science at KIT in Karlsruhe and write software at [Traggert](https://traggert.com), a startup, and at [PionierGarage](https://pioniergarage.de), KIT's entrepreneurship club.
 
-🌐 **[alparslansemiz.github.io](https://alparslansemiz.github.io)**
+On my own time I build small tools for specific people — a timetable app for my father's course, a bot that reads my inbox for me, and the Mac utilities I needed when the existing ones stopped working.
 
-#### Selected work
+**Things I made**
 
-| | Project | What it is |
-|---|---|---|
-| 🧩 | **[Mozaik](https://github.com/AlparslanSemiz/Mozaik)** | Offline, single-file school timetable builder — no installer, no server, five languages. [Try it →](https://alparslansemiz.github.io/Mozaik/) |
-| 🎮 | **[GameMetrix](https://github.com/AlparslanSemiz/Gamemetrix)** | Game decision catalog — FastAPI + PostgreSQL, server-rendered React Router frontend |
-| 📬 | **[Mail Triage Bot](https://github.com/AlparslanSemiz/mail-triage-bot)** | Gemini classifies new Outlook mail; Telegram gets urgent alerts and twice-daily digests |
-| 🕹️ | **[Godot Mobile Template](https://github.com/AlparslanSemiz/godot-mobile-template)** | Production-ready Godot 4.7 mobile game template — tuned frame pacing, headless tests in CI, ads/IAP behind switches |
-| 🎚️ | **[Şerit](https://github.com/AlparslanSemiz/Serit)** | Self-healing Touch Bar for MacBook Pro — dock with badges, now playing (incl. YouTube Music), volume, brightness, weather |
-| 👋 | **[Veda](https://github.com/AlparslanSemiz/Veda)** | macOS menu bar app that quits an app when its last window closes |
-| 🏷️ | **[PriceSniper](https://github.com/AlparslanSemiz/priceSniper)** | Electronics price tracker for Geizhals.de and Kleinanzeigen.de |
+- [Mozaik](https://github.com/AlparslanSemiz/Mozaik) — offline school timetable builder in a single HTML file ([try it](https://alparslansemiz.github.io/Mozaik/))
+- [Şerit](https://github.com/AlparslanSemiz/Serit) — a Touch Bar that doesn't go blank
+- [Veda](https://github.com/AlparslanSemiz/Veda) — quits Mac apps when their last window closes
+- [Mail Triage Bot](https://github.com/AlparslanSemiz/mail-triage-bot) — Gemini sorts my Outlook inbox, Telegram tells me what's urgent
+- [GameMetrix](https://github.com/AlparslanSemiz/Gamemetrix) — a catalog for deciding what to play next
+- [Godot Mobile Template](https://github.com/AlparslanSemiz/godot-mobile-template) — mobile game starter with tests in CI
 
-#### Team projects
+**With teams**
 
-| | Project | What it is |
-|---|---|---|
-| 🎓 | **[Rate My Professor](https://github.com/AlparslanSemiz/rate-my-professor)** | KIT lecture-rating platform (Android app, Spring Boot API, React admin panel), built in a 6-person team in the PSE course — I built most of the admin panel and about half of the backend |
-| 🌲 | **[GAMEJAM](https://github.com/AlparslanSemiz/GAMEJAM)** | Dark-forest escape platformer made in 48 hours at a game jam with four teammates (Godot) |
-| 🧾 | **[InvoiceFlow](https://github.com/AlparslanSemiz/InvoiceFlow)** | Full-stack invoice system (PDF/XML), built in a 4-person team at Delta Hochschulgruppe, KIT |
+- [Rate My Professor](https://github.com/AlparslanSemiz/rate-my-professor) — KIT lecture-rating platform, team of 6 (I built most of the admin panel and half the backend)
+- [GAMEJAM](https://github.com/AlparslanSemiz/GAMEJAM) — dark-forest platformer, 48-hour game jam, team of 5
+- [InvoiceFlow](https://github.com/AlparslanSemiz/InvoiceFlow) — invoice system at Delta Hochschulgruppe, team of 4
 
-#### Stack
-
-`TypeScript` `Python` `Swift` `Java` `React` `Next.js` `Spring Boot` `FastAPI` `PostgreSQL` `Docker` `Playwright` `Godot` `Unity`
+More on [alparslansemiz.github.io](https://alparslansemiz.github.io) · [CV](https://alparslansemiz.github.io/cv.html)
