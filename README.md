@@ -10,9 +10,9 @@
   <a href="https://www.linkedin.com/in/alparslansemiz/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"></picture></a>
 </p>
 
-I study computer science at KIT in Karlsruhe and work as a full-stack developer at [Traggert](https://traggert.com). I also build software at [PionierGarage](https://pioniergarage.de), KIT's entrepreneurship club, and at Delta, a student consulting group.
+I'm a computer science student at KIT and a full-stack developer at [Traggert](https://traggert.com), a startup in Karlsruhe. Next to my studies I build software for [PionierGarage](https://pioniergarage.de), KIT's entrepreneurship club, and for Delta, a student consulting group.
 
-In my own time I make tools that people around me actually use: a timetable app for my father's course, a bot that sorts my inbox, and the Mac utilities I wrote when the existing ones stopped working.
+Most of my own projects start with a real problem. My father plans his course's timetable by hand every term, so I wrote him [Mozaik](https://github.com/AlparslanSemiz/Mozaik). My inbox was too full, so a bot now sorts it for me. When the Mac utilities I relied on stopped working, I wrote my own. I like tools that are small, fast and do one job well.
 
 ### 🧰 Tools
 
