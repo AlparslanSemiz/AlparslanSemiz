@@ -19,7 +19,7 @@ Most of my own projects start with a real problem. My father plans his course's 
 |---|---|---|
 | ⌨️ | **[Şerit](https://github.com/AlparslanSemiz/Serit)** | Touch Bar app for MacBook Pro: Dock with badges, now playing (YouTube Music too), volume, brightness, weather and your next event. Recovers on its own when macOS takes the Touch Bar away. |
 | 👋 | **[Veda](https://github.com/AlparslanSemiz/Veda)** | Quits a Mac app when you close its last window, the way Windows does. |
-| 🌙 | **[Namaz Vakti](https://github.com/AlparslanSemiz/namaz-vakti-widget)** | Prayer times widget for macOS and iOS, for wherever you are. One network request a day. |
+| 🌙 | **[Namaz Vakti](https://github.com/AlparslanSemiz/prayer-times-widget)** | Prayer times widget for macOS and iOS, for wherever you are. One network request a day. |
 | 🕹️ | **[Godot Mobile Template](https://github.com/AlparslanSemiz/godot-mobile-template)** | Starting point for mobile games in Godot 4.7, with headless tests and smoke runs in CI. |
 
 ### 🌐 Web apps
@@ -52,7 +52,7 @@ Most of my own projects start with a real problem. My father plans his course's 
 - [Gamemetrix](https://github.com/AlparslanSemiz/Gamemetrix): Game scores from many sources, weighted by reliability. FastAPI and PostgreSQL backend with a server-rendered React frontend.
 - [Mozaik](https://github.com/AlparslanSemiz/Mozaik): Offline, single-file school timetable builder. No installer, no server, no account. UI in Turkish, English, German, Spanish and French.
 - [rate-my-professor](https://github.com/AlparslanSemiz/rate-my-professor): KIT professor-rating platform (PSE team project): Android app, Spring Boot 4 backend and React admin panel with audit log and undo.
-- [namaz-vakti-widget](https://github.com/AlparslanSemiz/namaz-vakti-widget): Konuma göre namaz vakitleri gösteren macOS/iOS widget'ı (ScriptWidget, Diyanet yöntemi).
+- [namaz-vakti-widget](https://github.com/AlparslanSemiz/prayer-times-widget): Konuma göre namaz vakitleri gösteren macOS/iOS widget'ı (ScriptWidget, Diyanet yöntemi).
 - [mail-triage-bot](https://github.com/AlparslanSemiz/mail-triage-bot): AI email triage for Outlook: Gemini classifies new mail, Telegram sends urgent alerts and twice-daily digests.
 <!-- RECENT:END -->
 
