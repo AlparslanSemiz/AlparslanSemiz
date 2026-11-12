@@ -49,11 +49,13 @@ Most of my own projects start with a real problem. My father plans his course's 
 ### 👷 Recently updated
 
 <!-- RECENT:START -->
-- [Gamemetrix](https://github.com/AlparslanSemiz/Gamemetrix): Game scores from many sources, weighted by reliability. FastAPI and PostgreSQL backend with a server-rendered React frontend.
-- [Mozaik](https://github.com/AlparslanSemiz/Mozaik): Offline, single-file school timetable builder. No installer, no server, no account. UI in Turkish, English, German, Spanish and French.
-- [rate-my-professor](https://github.com/AlparslanSemiz/rate-my-professor): KIT professor-rating platform (PSE team project): Android app, Spring Boot 4 backend and React admin panel with audit log and undo.
-- [namaz-vakti-widget](https://github.com/AlparslanSemiz/prayer-times-widget): Konuma göre namaz vakitleri gösteren macOS/iOS widget'ı (ScriptWidget, Diyanet yöntemi).
-- [mail-triage-bot](https://github.com/AlparslanSemiz/mail-triage-bot): AI email triage for Outlook: Gemini classifies new mail, Telegram sends urgent alerts and twice-daily digests.
+| Project | What it is | Updated |
+|---|---|---|
+| **[RateMyProf](https://github.com/AlparslanSemiz/rate-my-professor)** | KIT professor-rating platform (PSE team project): Android app, Spring Boot 4 backend and React admin panel with audit log and undo. | today |
+| **[Namaz Vakti](https://github.com/AlparslanSemiz/prayer-times-widget)** | Prayer times widget for macOS and iOS (ScriptWidget), with automatic location and the Diyanet method. | today |
+| **[Şerit](https://github.com/AlparslanSemiz/Serit)** | Touch Bar app for MacBook Pro that recovers on its own: dock, now playing (YouTube Music too), volume, brightness, weather. A Pock alternative. | today |
+| **[Veda](https://github.com/AlparslanSemiz/Veda)** | Quits a Mac app when you close its last window. Menu bar app for macOS. | today |
+| **[Godot Mobile Template](https://github.com/AlparslanSemiz/godot-mobile-template)** | Production-ready Godot 4.7 mobile game template: tuned frame pacing, headless tests and smoke runs in CI, AdMob and Play Billing behind switches. | today |
 <!-- RECENT:END -->
 
 ### 🔧 Stack
