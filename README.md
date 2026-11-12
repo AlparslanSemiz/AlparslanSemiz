@@ -20,7 +20,7 @@ Developer in Karlsruhe — building software at a startup and at [PionierGarage]
 
 | | Project | What it is |
 |---|---|---|
-| 🎓 | **[Rate My Professor](https://github.com/AlparslanSemiz/rate-my-professor)** | KIT lecture-rating platform, built in a 5-person team in the PSE course — I built most of the React admin panel and about half of the Spring Boot backend |
+| 🎓 | **[Rate My Professor](https://github.com/AlparslanSemiz/rate-my-professor)** | KIT lecture-rating platform (Android app, Spring Boot API, React admin panel), built in a 6-person team in the PSE course — I built most of the admin panel and about half of the backend |
 | 🌲 | **[GAMEJAM](https://github.com/AlparslanSemiz/GAMEJAM)** | Dark-forest escape platformer made in 48 hours at a game jam with four teammates (Godot) |
 | 🧾 | **[InvoiceFlow](https://github.com/AlparslanSemiz/InvoiceFlow)** | Full-stack invoice system (PDF/XML), built in a 4-person team at Delta Hochschulgruppe, KIT |
 
