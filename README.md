@@ -19,4 +19,4 @@ On my own time I build small tools for specific people — a timetable app for m
 - [GAMEJAM](https://github.com/AlparslanSemiz/GAMEJAM) — dark-forest platformer, 48-hour game jam, team of 5
 - [InvoiceFlow](https://github.com/AlparslanSemiz/InvoiceFlow) — invoice system at Delta Hochschulgruppe, team of 4
 
-More on [alparslansemiz.github.io](https://alparslansemiz.github.io) · [CV](https://alparslansemiz.github.io/cv.html)
+More on [alparslansemiz.github.io](https://alparslansemiz.github.io) · [CV](https://alparslansemiz.github.io/cv.html) · [LinkedIn](https://www.linkedin.com/in/alparslansemiz/)
