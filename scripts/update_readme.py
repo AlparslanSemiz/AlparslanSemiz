@@ -7,8 +7,8 @@ USER = "AlparslanSemiz"
 SKIP = {USER, f"{USER}.github.io", "homebrew-tap"}
 # Nicer display names where the repo name can't carry the real one.
 NAMES = {"Serit": "Şerit", "Gamemetrix": "GameMetrix", "rate-my-professor": "RateMyProf",
-         "lost-soul": "Lost Soul", "price-sniper": "PriceSniper", "priceSniper": "PriceSniper",
-         "prayer-times-widget": "Namaz Vakti", "mail-triage-bot": "Mail Triage Bot",
+         "lost-soul": "Lost Soul", "price-sniper": "Price Sniper",
+         "prayer-times-widget": "Prayer Times Widget", "mail-triage-bot": "Mail Triage Bot",
          "godot-mobile-template": "Godot Mobile Template"}
 
 req = urllib.request.Request(
