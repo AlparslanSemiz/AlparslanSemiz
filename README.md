@@ -44,6 +44,11 @@ In my own time I make tools that people around me actually use: a timetable app 
 ### 👷 Recently updated
 
 <!-- RECENT:START -->
+- [mail-triage-bot](https://github.com/AlparslanSemiz/mail-triage-bot): AI email triage for Outlook: Gemini classifies new mail, Telegram sends urgent alerts and twice-daily digests.
+- [lost-soul](https://github.com/AlparslanSemiz/lost-soul): Lost Soul — a dark-and-light 2D platformer built in a 3-day hackathon at KIT (ClementineJam) by a team of four. Godot 4.6.
+- [godot-mobile-template](https://github.com/AlparslanSemiz/godot-mobile-template): Production-ready Godot 4.7 mobile game template — tuned frame pacing, headless tests & smoke runs in CI, AdMob/Play Billing behind switches, agent-friendly.
+- [InvoiceFlow](https://github.com/AlparslanSemiz/InvoiceFlow): Showcase & architecture notes for InvoiceFlow, a full-stack invoice system (PDF/XML) built at Delta, KIT's student consulting group.
+- [rate-my-professor](https://github.com/AlparslanSemiz/rate-my-professor): KIT lecture & professor rating platform (PSE team project) — Android app, Spring Boot 4 backend and React admin panel with audit log & undo.
 <!-- RECENT:END -->
 
 ### 🔧 Stack
