@@ -12,6 +12,7 @@ Developer in Karlsruhe — building software at a startup and at [PionierGarage]
 | 🎮 | **[GameMetrix](https://github.com/AlparslanSemiz/Gamemetrix)** | Game decision catalog — FastAPI + PostgreSQL, server-rendered React Router frontend |
 | 📬 | **[Mail Triage Bot](https://github.com/AlparslanSemiz/mail-triage-bot)** | Gemini classifies new Outlook mail; Telegram gets urgent alerts and twice-daily digests |
 | 🕹️ | **[Godot Mobile Template](https://github.com/AlparslanSemiz/godot-mobile-template)** | Production-ready Godot 4.7 mobile game template — tuned frame pacing, headless tests in CI, ads/IAP behind switches |
+| 🎚️ | **[Şerit](https://github.com/AlparslanSemiz/Serit)** | Self-healing Touch Bar for MacBook Pro — dock with badges, now playing (incl. YouTube Music), volume, brightness, weather |
 | 👋 | **[Veda](https://github.com/AlparslanSemiz/Veda)** | macOS menu bar app that quits an app when its last window closes |
 | 🏷️ | **[PriceSniper](https://github.com/AlparslanSemiz/priceSniper)** | Electronics price tracker for Geizhals.de and Kleinanzeigen.de |
 
