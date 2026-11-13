@@ -52,11 +52,11 @@ Most of my own projects start with a real problem. My father plans his course's 
 <!-- RECENT:START -->
 | Project | What it is | Updated |
 |---|---|---|
-| **[Şerit](https://github.com/AlparslanSemiz/Serit)** | Touch Bar app for MacBook Pro that recovers on its own: dock, now playing (YouTube Music too), volume, brightness, weather. A Pock alternative. | today |
 | **[GameMetrix](https://github.com/AlparslanSemiz/Gamemetrix)** | Game scores from many sources, weighted by reliability. FastAPI and PostgreSQL backend with a server-rendered React frontend. | today |
-| **[RateMyProf](https://github.com/AlparslanSemiz/rate-my-professor)** | KIT professor-rating platform (PSE team project): Android app, Spring Boot 4 backend and React admin panel with audit log and undo. | today |
-| **[Prayer Times Widget](https://github.com/AlparslanSemiz/prayer-times-widget)** | Prayer times widget for macOS and iOS (ScriptWidget), with automatic location and the Diyanet method. | today |
-| **[Veda](https://github.com/AlparslanSemiz/Veda)** | Quits a Mac app when you close its last window. Menu bar app for macOS. | today |
+| **[Şerit](https://github.com/AlparslanSemiz/Serit)** | Touch Bar app for MacBook Pro that recovers on its own: dock, now playing (YouTube Music too), volume, brightness, weather. A Pock alternative. | today |
+| **[Kumanda](https://github.com/AlparslanSemiz/Kumanda)** | Use your Mac from the couch with a game controller: pointer, scroll, clicks and Spaces. Steps aside when a game is in front. | today |
+| **[RateMyProf](https://github.com/AlparslanSemiz/rate-my-professor)** | KIT professor-rating platform (PSE team project): Android app, Spring Boot 4 backend and React admin panel with audit log and undo. | yesterday |
+| **[Prayer Times Widget](https://github.com/AlparslanSemiz/prayer-times-widget)** | Prayer times widget for macOS and iOS (ScriptWidget), with automatic location and the Diyanet method. | yesterday |
 <!-- RECENT:END -->
 
 ### 🔧 Stack
