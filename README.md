@@ -19,6 +19,7 @@ Most of my own projects start with a real problem. My father plans his course's 
 |---|---|---|
 | ⌨️ | **[Şerit](https://github.com/AlparslanSemiz/Serit)** | Touch Bar app for MacBook Pro: Dock with badges, now playing (YouTube Music too), volume, brightness, weather and your next event. Recovers on its own when macOS takes the Touch Bar away. |
 | 👋 | **[Veda](https://github.com/AlparslanSemiz/Veda)** | Quits a Mac app when you close its last window, the way Windows does. |
+| 🎮 | **[Kumanda](https://github.com/AlparslanSemiz/Kumanda)** | Use your Mac with a game controller: pointer, scroll, clicks and Spaces. Steps aside when a game is in front. |
 | 🌙 | **[Prayer Times Widget](https://github.com/AlparslanSemiz/prayer-times-widget)** | Prayer times widget for macOS and iOS, for wherever you are. One network request a day. |
 | 🕹️ | **[Godot Mobile Template](https://github.com/AlparslanSemiz/godot-mobile-template)** | Starting point for mobile games in Godot 4.7, with headless tests and smoke runs in CI. |
 
