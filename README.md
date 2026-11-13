@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/alparslansemiz/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"></picture></a>
 </p>
 
-I'm a computer science student at KIT and a full-stack developer at [Traggert](https://traggert.com), a startup in Karlsruhe. Next to my studies I build software for [PionierGarage](https://pioniergarage.de), KIT's entrepreneurship club, and for Delta, a student consulting group. I also run the website and technical infrastructure of my brothers' law firm, [Semiz Hukuk Bürosu](https://semizlaw.com) in Istanbul.
+I'm a computer science student at KIT and a full-stack developer at [Traggert](https://traggert.com), a startup in Karlsruhe. Next to my studies I build software for [PionierGarage](https://pioniergarage.de), KIT's entrepreneurship club, and for [Delta](https://www.delta-karlsruhe.de/), a student consulting group. I also run the website and technical infrastructure of my brothers' law firm, [Semiz Hukuk Bürosu](https://semizlaw.com) in Istanbul.
 
 Most of my own projects start with a real problem. My father plans his course's timetable by hand every term, so I wrote him [Mozaik](https://github.com/AlparslanSemiz/Mozaik). My inbox was too full, so a bot now sorts it for me. When the Mac utilities I relied on stopped working, I wrote my own. I like tools that are small, fast and do one job well.
 
