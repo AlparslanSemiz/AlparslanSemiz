@@ -10,9 +10,19 @@
   <a href="https://www.instagram.com/semizalparslan/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram"></picture></a>
 </p>
 
-I'm a computer science student at KIT and a full-stack developer at [Traggert](https://traggert.com), a startup in Karlsruhe. Next to my studies I build software for [Delta](https://www.delta-karlsruhe.de/), a student consulting group, and I make small games in Godot as [Plumkite Games](https://plumkitegames.com). I also run the website and technical infrastructure of my brothers' law firm, [Semiz Hukuk Bürosu](https://semizlaw.com) in Istanbul.
+### 👋 About me
 
-Most of my own projects start with a real problem. My father plans his course's timetable by hand every term, so I wrote him [Mozaik](https://github.com/AlparslanSemiz/Mozaik). My inbox was too full, so a bot now sorts it for me. When the Mac utilities I relied on stopped working, I wrote my own. I like tools that are small, fast and do one job well.
+I'm Alp, from Istanbul and studying computer science at [KIT](https://www.kit.edu) in Karlsruhe.
+
+**Work.** I'm a full-stack developer at [Traggert](https://traggert.com), a startup in Karlsruhe.
+
+**Around KIT.** I build software for [Delta](https://www.delta-karlsruhe.de/), a student consulting group, and I'm part of [PionierGarage](https://pioniergarage.de), KIT's entrepreneurship club.
+
+**Games.** I make small games in Godot under my one-person studio, [Plumkite Games](https://plumkitegames.com).
+
+**Family.** I run the website and technical infrastructure of my brothers' law firm, [Semiz Hukuk Bürosu](https://semizlaw.com) in Istanbul.
+
+**How I pick projects.** Most of them start with a real problem. My father plans his course's timetable by hand every term, so I wrote him [Mozaik](https://github.com/AlparslanSemiz/Mozaik). My inbox was too full, so a bot now sorts it for me. When the Mac utilities I relied on stopped working, I wrote my own. I like tools that are small, fast and do one job well.
 
 ### 🎲 Games
 
