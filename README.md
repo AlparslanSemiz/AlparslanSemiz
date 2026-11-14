@@ -1,17 +1,24 @@
 <p align="center"><img src="banner.png" alt="Alparslan Semiz" width="100%"></p>
 
 <p align="center">
-  <a href="https://alparslansemiz.github.io"><img src="https://img.shields.io/badge/CV-alparslansemiz.github.io-1c1917?style=for-the-badge&labelColor=ea6c34" alt="CV"></a>
+  <a href="https://alparslansemiz.com"><img src="https://img.shields.io/badge/Website-alparslansemiz.com-1c1917?style=for-the-badge&labelColor=c8102e" alt="Website: alparslansemiz.com"></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/AlparslanSemiz"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"></picture></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/alparslansemiz/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"></picture></a>
+  <a href="https://www.linkedin.com/in/alparslansemiz/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"></picture></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/semizalparslan/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram"></picture></a>
 </p>
 
-I'm a computer science student at KIT and a full-stack developer at [Traggert](https://traggert.com), a startup in Karlsruhe. Next to my studies I build software for [PionierGarage](https://pioniergarage.de), KIT's entrepreneurship club, and for [Delta](https://www.delta-karlsruhe.de/), a student consulting group. I also run the website and technical infrastructure of my brothers' law firm, [Semiz Hukuk Bürosu](https://semizlaw.com) in Istanbul.
+I'm a computer science student at KIT and a full-stack developer at [Traggert](https://traggert.com), a startup in Karlsruhe. Next to my studies I build software for [Delta](https://www.delta-karlsruhe.de/), a student consulting group, and I make small games in Godot as [Plumkite Games](https://plumkitegames.com). I also run the website and technical infrastructure of my brothers' law firm, [Semiz Hukuk Bürosu](https://semizlaw.com) in Istanbul.
 
 Most of my own projects start with a real problem. My father plans his course's timetable by hand every term, so I wrote him [Mozaik](https://github.com/AlparslanSemiz/Mozaik). My inbox was too full, so a bot now sorts it for me. When the Mac utilities I relied on stopped working, I wrote my own. I like tools that are small, fast and do one job well.
+
+### 🎲 Games
+
+| | Project | What it is |
+|---|---|---|
+| 🧱 | **[Blokaos](https://blokaos.plumkitegames.com)** | Block puzzle with five game modes, made in Godot by my one-person studio [Plumkite Games](https://plumkitegames.com). Android first, iOS later. Coming soon. |
 
 ### 🧰 Tools
 
@@ -65,6 +72,7 @@ Most of my own projects start with a real problem. My father plans his course's 
 
 ### 📫 How to reach me
 
+- Website: <https://alparslansemiz.com> (every project, with a contact form)
 - CV: <https://alparslansemiz.github.io>
 - LinkedIn: <https://www.linkedin.com/in/alparslansemiz/>
-- Email: alparslansemiz@outlook.com
+- Instagram: <https://www.instagram.com/semizalparslan/>
