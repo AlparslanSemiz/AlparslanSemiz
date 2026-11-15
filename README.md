@@ -59,7 +59,7 @@ I'm Alp, from Istanbul and studying computer science at [KIT](https://www.kit.ed
 
 | | Project | What it is |
 |---|---|---|
-| 🎓 | **[RateMyProf](https://github.com/AlparslanSemiz/rate-my-professor)** | KIT professor-rating platform with an Android app, a Spring Boot API and a React admin panel. Team of 6. I built the admin panel, wrote backend tests and fixes, and set up the server and Docker deployment. |
+| 🎓 | **[RateMyProf](https://github.com/AlparslanSemiz/rate-my-professor)** | KIT professor-rating platform with an Android app, a Spring Boot API and a React admin panel. Team of 6. I built the admin panel, wrote backend tests and fixes, and set up the server and Docker deployment. [Try the admin panel demo](https://demo.ratemyprofessor.dev). |
 | 📚 | **I Am In The Library** | Social app that shows which friends are in the library, with geofenced check-ins. React Native, Supabase, PostGIS. Team of 3. |
 | 🧾 | **[InvoiceFlow](https://github.com/AlparslanSemiz/InvoiceFlow)** | Delta's internal invoicing app with PDF export and Factur-X XML. Team of 3. |
 | 🌲 | **[Lost Soul](https://github.com/AlparslanSemiz/lost-soul)** | Dark-and-light platformer from a 3-day hackathon at KIT. Team of 4. I was the gameplay programmer. |
