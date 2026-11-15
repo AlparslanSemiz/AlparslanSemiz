@@ -70,8 +70,8 @@ I'm Alp, from Istanbul and studying computer science at [KIT](https://www.kit.ed
 | Project | What it is | Updated |
 |---|---|---|
 | **[Mozaik](https://github.com/AlparslanSemiz/Mozaik)** | Offline, single-file school timetable builder. No installer, no server, no account. UI in Turkish, English, German, Spanish and French. | today |
-| **[GameMetrix](https://github.com/AlparslanSemiz/Gamemetrix)** | Game scores from many sources, weighted by reliability. FastAPI and PostgreSQL backend with a server-rendered React frontend. | today |
 | **[RateMyProf](https://github.com/AlparslanSemiz/rate-my-professor)** | KIT professor-rating platform (PSE team project): Android app, Spring Boot 4 backend and React admin panel with audit log and undo. | today |
+| **[GameMetrix](https://github.com/AlparslanSemiz/Gamemetrix)** | Game scores from many sources, weighted by reliability. FastAPI and PostgreSQL backend with a server-rendered React frontend. | today |
 | **[Veda](https://github.com/AlparslanSemiz/Veda)** | Quits a Mac app when you close its last window. Menu bar app for macOS. | yesterday |
 | **[Şerit](https://github.com/AlparslanSemiz/Serit)** | Touch Bar app for MacBook Pro that recovers on its own: dock, now playing (YouTube Music too), volume, brightness, weather. A Pock alternative. | yesterday |
 <!-- RECENT:END -->
