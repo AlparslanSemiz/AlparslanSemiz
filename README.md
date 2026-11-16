@@ -1,11 +1,11 @@
-<p align="center"><img src="banner.png" alt="Alparslan Semiz: I make games, Mac apps and web apps." width="100%"></p>
+<p align="center"><img src="banner.png" alt="Alparslan Semiz: full-stack developer, CS student at KIT, Karlsruhe." width="100%"></p>
 
 <p align="center">
-  <a href="https://alparslansemiz.com"><b>Website</b></a> ·
-  <a href="https://alparslansemiz.github.io">CV</a> ·
-  <a href="https://www.linkedin.com/in/alparslansemiz/">LinkedIn</a> ·
-  <a href="https://plumkitegames.com">Plumkite Games</a> ·
-  <a href="https://www.instagram.com/semizalparslan/">Instagram</a>
+  <a href="https://alparslansemiz.com"><img src="assets/icons/website.svg" width="16" height="16" alt="" align="center">&nbsp;<b>Website</b></a> &nbsp;·&nbsp;
+  <a href="https://alparslansemiz.github.io"><img src="assets/icons/cv.svg" width="16" height="16" alt="" align="center">&nbsp;CV</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/alparslansemiz/"><img src="assets/icons/linkedin.svg" width="16" height="16" alt="" align="center">&nbsp;LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://plumkitegames.com"><img src="assets/icons/plumkite.svg" width="16" height="16" alt="" align="center">&nbsp;Plumkite Games</a> &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/semizalparslan/"><img src="assets/icons/instagram.svg" width="16" height="16" alt="" align="center">&nbsp;Instagram</a>
 </p>
 
 I'm Alp, from Istanbul, studying computer science at [KIT](https://www.kit.edu). Most of what I build starts with a real problem: my father planned his school's timetable by hand, so I wrote him [Mozaik](https://github.com/AlparslanSemiz/Mozaik). When the Mac utilities I relied on broke, I wrote my own.
