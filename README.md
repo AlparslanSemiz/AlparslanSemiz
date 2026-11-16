@@ -1,4 +1,4 @@
-<p align="center"><img src="banner.png" alt="Alparslan Semiz: I make games, Mac apps and the servers behind them. Computer science at KIT, Karlsruhe." width="100%"></p>
+<p align="center"><img src="banner.png" alt="Alparslan Semiz: I make games, Mac apps and servers. Computer science at KIT, Karlsruhe." width="100%"></p>
 
 <p align="center">
   <a href="https://alparslansemiz.com"><b>Website</b></a> ·
