@@ -10,7 +10,7 @@
 
 I'm Alp, from Istanbul, studying computer science at [KIT](https://www.kit.edu). Most of what I build starts with a real problem: my father planned his school's timetable by hand, so I wrote him [Mozaik](https://github.com/AlparslanSemiz/Mozaik). When the Mac utilities I relied on broke, I wrote my own.
 
-- **Now:** full-stack developer at a startup in Karlsruhe
+- **Now:** full-stack developer at [Traggert](https://traggert.com), a startup in Karlsruhe
 - **Around KIT:** software for [Delta](https://www.delta-karlsruhe.de/) (student consulting), member of [PionierGarage](https://pioniergarage.de)
 - **On the side:** small Godot games at my one-person studio [Plumkite Games](https://plumkitegames.com)
 
