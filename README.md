@@ -53,7 +53,7 @@ Touch Bar app for MacBook Pro: Dock, now playing, volume, brightness, weather. R
 
 **Games**
 - **[Blokaos](https://blokaos.plumkitegames.com):** block puzzle with five game modes, from Plumkite Games. Coming soon.
-- **[Lost Soul](https://github.com/AlparslanSemiz/lost-soul):** dark-and-light platformer from a 3-day hackathon at KIT. Team of 4, I was the gameplay programmer.
+- **[Lost Soul](https://github.com/AlparslanSemiz/lost-soul):** dark-and-light platformer from a 48-hour game jam at KIT. Team of 4, I was the gameplay programmer.
 - **[Godot Mobile Template](https://github.com/AlparslanSemiz/godot-mobile-template):** starting point for mobile games in Godot 4.7, with tests in CI.
 
 **Team & client work**
