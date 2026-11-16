@@ -1,88 +1,108 @@
-<p align="center"><img src="banner.png" alt="Alparslan Semiz" width="100%"></p>
+<p align="center"><img src="banner.png" alt="Alparslan Semiz: full-stack developer, computer science at KIT, Karlsruhe" width="100%"></p>
 
 <p align="center">
-  <a href="https://alparslansemiz.com"><img src="https://img.shields.io/badge/Website-alparslansemiz.com-1c1917?style=for-the-badge&labelColor=c8102e" alt="Website: alparslansemiz.com"></a>
+  <a href="https://alparslansemiz.com"><b>Website</b></a> ·
+  <a href="https://alparslansemiz.github.io">CV</a> ·
+  <a href="https://www.linkedin.com/in/alparslansemiz/">LinkedIn</a> ·
+  <a href="https://plumkitegames.com">Plumkite Games</a> ·
+  <a href="https://www.instagram.com/semizalparslan/">Instagram</a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/AlparslanSemiz"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"></picture></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/alparslansemiz/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"></picture></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/semizalparslan/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram"></picture></a>
-</p>
+I'm Alp, a computer science student at [KIT](https://www.kit.edu) from Istanbul. I build small, fast tools that do one job well, and most of them start with a real problem: my father planned his timetable by hand, so I wrote him [Mozaik](https://github.com/AlparslanSemiz/Mozaik). When the Mac utilities I relied on broke, I wrote my own.
 
-### 👋 About me
+- **Now:** full-stack developer at a startup in Karlsruhe
+- **Around KIT:** software for [Delta](https://www.delta-karlsruhe.de/) (student consulting), member of [PionierGarage](https://pioniergarage.de)
+- **On the side:** small Godot games at my one-person studio [Plumkite Games](https://plumkitegames.com)
 
-I'm Alp, from Istanbul and studying computer science at [KIT](https://www.kit.edu) in Karlsruhe.
+## ⭐ Start here
 
-**Work.** I'm a full-stack developer at [Traggert](https://traggert.com), a startup in Karlsruhe.
+<table>
+<tr>
+<td width="50%" valign="top">
+<b><a href="https://github.com/AlparslanSemiz/Mozaik">Mozaik</a></b> &nbsp;<sub>01 · PRODUCT</sub><br>
+Offline school timetable builder in a single HTML file, in five languages. 1,200+ commits.<br>
+<a href="https://mozaik.alparslansemiz.com"><b>Try it →</b></a>
+</td>
+<td width="50%" valign="top">
+<b><a href="https://github.com/AlparslanSemiz/Gamemetrix">GameMetrix</a></b> &nbsp;<sub>02 · WEB APP</sub><br>
+Game scores from many sources, weighted by how reliable each source is. FastAPI, PostgreSQL, React.<br>
+<a href="https://gamemetrix.me"><b>Open gamemetrix.me →</b></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<b><a href="https://github.com/AlparslanSemiz/Serit">Şerit</a></b> &nbsp;<sub>03 · MAC TOOL</sub><br>
+Touch Bar app for MacBook Pro: Dock, now playing, volume, brightness, weather. Recovers on its own.<br>
+<a href="https://github.com/AlparslanSemiz/Serit"><b>Get it →</b></a>
+</td>
+<td width="50%" valign="top">
+<b><a href="https://blokaos.plumkitegames.com">Blokaos</a></b> &nbsp;<sub>04 · GAME</sub><br>
+Block puzzle with five game modes, made in Godot. Android first, iOS later.<br>
+<a href="https://blokaos.plumkitegames.com"><b>Coming soon →</b></a>
+</td>
+</tr>
+</table>
 
-**Around KIT.** I build software for [Delta](https://www.delta-karlsruhe.de/), a student consulting group, and I'm part of [PionierGarage](https://pioniergarage.de), KIT's entrepreneurship club.
+## 🧩 Products
 
-**Games.** I make small games in Godot under my one-person studio, [Plumkite Games](https://plumkitegames.com).
-
-**Family.** I run the website and technical infrastructure of my brothers' law firm, [Semiz Hukuk Bürosu](https://semizlaw.com) in Istanbul.
-
-**How I pick projects.** Most of them start with a real problem. My father plans his course's timetable by hand every term, so I wrote him [Mozaik](https://github.com/AlparslanSemiz/Mozaik). My inbox was too full, so a bot now sorts it for me. When the Mac utilities I relied on stopped working, I wrote my own. I like tools that are small, fast and do one job well.
-
-### 🎲 Games
-
-| | Project | What it is |
+| Project | What it does | |
 |---|---|---|
-| 🧱 | **[Blokaos](https://blokaos.plumkitegames.com)** | Block puzzle with five game modes, made in Godot by my one-person studio [Plumkite Games](https://plumkitegames.com). Android first, iOS later. Coming soon. |
+| **[Mozaik](https://github.com/AlparslanSemiz/Mozaik)** | Builds a school timetable offline from one HTML file. No installer, no server, no account. | [Try it](https://mozaik.alparslansemiz.com) |
+| **[GameMetrix](https://github.com/AlparslanSemiz/Gamemetrix)** | Collects game scores from many sources and weights them by reliability. | [Live](https://gamemetrix.me) |
 
-### 🧰 Tools
+## 🍎 Mac & iOS utilities
 
-| | Project | What it does |
+| Project | What it does |
+|---|---|
+| **[Şerit](https://github.com/AlparslanSemiz/Serit)** | Touch Bar app: Dock with badges, now playing (YouTube Music too), volume, brightness, weather, next event. |
+| **[Veda](https://github.com/AlparslanSemiz/Veda)** | Quits a Mac app when you close its last window, the way Windows does. |
+| **[Kumanda](https://github.com/AlparslanSemiz/Kumanda)** | Use your Mac from the couch with a game controller. Steps aside when a game is in front. |
+| **[Prayer Times Widget](https://github.com/AlparslanSemiz/prayer-times-widget)** | Prayer times for wherever you are, on macOS and iOS. One network request a day. |
+
+Şerit and Veda install with Homebrew from [my tap](https://github.com/AlparslanSemiz/homebrew-tap).
+
+## 🎮 Games
+
+| Project | What it is |
+|---|---|
+| **[Blokaos](https://blokaos.plumkitegames.com)** | Block puzzle with five game modes, from [Plumkite Games](https://plumkitegames.com). Coming soon. |
+| **[Lost Soul](https://github.com/AlparslanSemiz/lost-soul)** | Dark-and-light platformer from a 3-day hackathon at KIT. Team of 4, I was the gameplay programmer. |
+| **[Godot Mobile Template](https://github.com/AlparslanSemiz/godot-mobile-template)** | Starting point for mobile games in Godot 4.7, with headless tests and smoke runs in CI. |
+
+## 🤖 Bots & automation
+
+| Project | What it does |
+|---|---|
+| **[Mail Triage Bot](https://github.com/AlparslanSemiz/mail-triage-bot)** | Gemini sorts new Outlook mail; Telegram sends urgent alerts and a digest twice a day. |
+| **[Price Sniper](https://github.com/AlparslanSemiz/price-sniper)** | Watches electronics prices on Geizhals.de and Kleinanzeigen.de and alerts on drops. |
+
+## 🤝 Team & client work
+
+| Project | What it is | My part |
 |---|---|---|
-| ⌨️ | **[Şerit](https://github.com/AlparslanSemiz/Serit)** | Touch Bar app for MacBook Pro: Dock with badges, now playing (YouTube Music too), volume, brightness, weather and your next event. Recovers on its own when macOS takes the Touch Bar away. |
-| 👋 | **[Veda](https://github.com/AlparslanSemiz/Veda)** | Quits a Mac app when you close its last window, the way Windows does. |
-| 🎮 | **[Kumanda](https://github.com/AlparslanSemiz/Kumanda)** | Use your Mac with a game controller: pointer, scroll, clicks and Spaces. Steps aside when a game is in front. |
-| 🌙 | **[Prayer Times Widget](https://github.com/AlparslanSemiz/prayer-times-widget)** | Prayer times widget for macOS and iOS, for wherever you are. One network request a day. |
-| 🕹️ | **[Godot Mobile Template](https://github.com/AlparslanSemiz/godot-mobile-template)** | Starting point for mobile games in Godot 4.7, with headless tests and smoke runs in CI. |
+| **[RateMyProf](https://github.com/AlparslanSemiz/rate-my-professor)** | KIT professor ratings: Android app, Spring Boot API, React admin panel. Team of 6. [Demo](https://demo.ratemyprofessor.dev) | Admin panel, backend tests and fixes, server and Docker deployment |
+| **[InvoiceFlow](https://github.com/AlparslanSemiz/InvoiceFlow)** | Delta's invoicing app with PDF export and Factur-X XML. Team of 3. | Developer |
+| **I Am In The Library** | Shows which friends are in the library, with geofenced check-ins. React Native, Supabase, PostGIS. Team of 3. | Developer |
+| **[Semiz Hukuk Bürosu](https://semizlaw.com)** | Website of my brothers' law firm in Istanbul. | Site and technical infrastructure |
 
-### 🌐 Web apps
-
-| | Project | What it does |
-|---|---|---|
-| 🧩 | **[Mozaik](https://github.com/AlparslanSemiz/Mozaik)** | Offline school timetable builder in a single HTML file, in five languages. 600+ commits. [Try it](https://alparslansemiz.github.io/Mozaik/) |
-| 🎮 | **[GameMetrix](https://github.com/AlparslanSemiz/Gamemetrix)** | Collects game scores from many sources and weights them by reliability. [gamemetrix.me](https://gamemetrix.me) |
-| ⚖️ | **[Semiz Hukuk Bürosu](https://semizlaw.com)** | Website and technical infrastructure I run for my brothers' law firm in Istanbul. |
-
-### 🤖 Automation
-
-| | Project | What it does |
-|---|---|---|
-| 📬 | **[Mail Triage Bot](https://github.com/AlparslanSemiz/mail-triage-bot)** | Gemini sorts new Outlook mail. Telegram sends urgent alerts and a digest twice a day. |
-| 🏷️ | **[Price Sniper](https://github.com/AlparslanSemiz/price-sniper)** | Watches electronics prices on Geizhals.de and Kleinanzeigen.de and alerts on drops. |
-
-### 🤝 Team projects
-
-| | Project | What it is |
-|---|---|---|
-| 🎓 | **[RateMyProf](https://github.com/AlparslanSemiz/rate-my-professor)** | KIT professor-rating platform with an Android app, a Spring Boot API and a React admin panel. Team of 6. I built the admin panel, wrote backend tests and fixes, and set up the server and Docker deployment. [Try the admin panel demo](https://demo.ratemyprofessor.dev). |
-| 📚 | **I Am In The Library** | Social app that shows which friends are in the library, with geofenced check-ins. React Native, Supabase, PostGIS. Team of 3. |
-| 🧾 | **[InvoiceFlow](https://github.com/AlparslanSemiz/InvoiceFlow)** | Delta's internal invoicing app with PDF export and Factur-X XML. Team of 3. |
-| 🌲 | **[Lost Soul](https://github.com/AlparslanSemiz/lost-soul)** | Dark-and-light platformer from a 3-day hackathon at KIT. Team of 4. I was the gameplay programmer. |
-
-### 👷 Recently updated
+<details>
+<summary><b>👷 Recently updated</b> (refreshed every hour)</summary>
 
 <!-- RECENT:START -->
 | Project | What it is | Updated |
 |---|---|---|
 | **[Mozaik](https://github.com/AlparslanSemiz/Mozaik)** | Offline, single-file school timetable builder. No installer, no server, no account. UI in Turkish, English, German, Spanish and French. | today |
-| **[mozaik-site](https://github.com/AlparslanSemiz/mozaik-site)** | Mozaik web sürümünün yeni adresi (mozaik.alparslansemiz.com); içerik Mozaik deposunun site.yml'inden gelir | today |
 | **[RateMyProf](https://github.com/AlparslanSemiz/rate-my-professor)** | KIT professor-rating platform (PSE team project): Android app, Spring Boot 4 backend and React admin panel with audit log and undo. | today |
 | **[GameMetrix](https://github.com/AlparslanSemiz/Gamemetrix)** | Game scores from many sources, weighted by reliability. FastAPI and PostgreSQL backend with a server-rendered React frontend. | today |
 | **[Veda](https://github.com/AlparslanSemiz/Veda)** | Quits a Mac app when you close its last window. Menu bar app for macOS. | yesterday |
 <!-- RECENT:END -->
 
-### 🔧 Stack
+</details>
 
-`Java` `TypeScript` `Python` `SQL` `Swift` `Dart` · `React` `Next.js` `tRPC` `Expo` `Android` `Flutter` `Spring Boot` `FastAPI` `Godot` · `PostgreSQL` `Prisma` `Supabase` `Docker`
+## 🔧 Stack
 
-### 📫 How to reach me
+**Languages** &nbsp;`TypeScript` `Java` `Python` `Swift` `Dart` `GDScript` `SQL`<br>
+**Frameworks** &nbsp;`React` `Next.js` `Spring Boot` `FastAPI` `Flutter` `Expo` `Godot`<br>
+**Data & ops** &nbsp;`PostgreSQL` `Prisma` `Supabase` `Docker` `GitHub Actions` `Cloudflare`
 
-- Website: <https://alparslansemiz.com> (every project, with a contact form)
-- CV: <https://alparslansemiz.github.io>
-- LinkedIn: <https://www.linkedin.com/in/alparslansemiz/>
-- Instagram: <https://www.instagram.com/semizalparslan/>
+<sub>Every project, with a contact form: <a href="https://alparslansemiz.com">alparslansemiz.com</a></sub>

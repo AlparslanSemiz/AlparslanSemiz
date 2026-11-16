@@ -4,7 +4,7 @@ from datetime import datetime, timezone
 
 USER = "AlparslanSemiz"
 # Helper repos that aren't projects of their own.
-SKIP = {USER, f"{USER}.github.io", "homebrew-tap"}
+SKIP = {USER, f"{USER}.github.io", "homebrew-tap", "mozaik-site"}
 # Nicer display names where the repo name can't carry the real one.
 NAMES = {"Serit": "Şerit", "Gamemetrix": "GameMetrix", "rate-my-professor": "RateMyProf",
          "lost-soul": "Lost Soul", "price-sniper": "Price Sniper",
