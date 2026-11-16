@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://alparslansemiz.com"><img src="assets/icons/website.svg" width="16" height="16" alt="" align="absmiddle">&nbsp;<b>Website</b></a> &nbsp;·&nbsp;
-  <a href="https://alparslansemiz.github.io"><img src="assets/icons/cv.svg" width="16" height="16" alt="" align="absmiddle">&nbsp;CV</a> &nbsp;·&nbsp;
+  <a href="https://alparslansemiz.com/en/cv/"><img src="assets/icons/cv.svg" width="16" height="16" alt="" align="absmiddle">&nbsp;CV</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/alparslansemiz/"><img src="assets/icons/linkedin.svg" width="16" height="16" alt="" align="absmiddle">&nbsp;LinkedIn</a><br>
   <a href="https://plumkitegames.com"><img src="assets/icons/plumkite.svg" width="16" height="16" alt="" align="absmiddle">&nbsp;Plumkite&nbsp;Games</a> &nbsp;·&nbsp;
   <a href="https://www.instagram.com/semizalparslan/"><img src="assets/icons/instagram.svg" width="16" height="16" alt="" align="absmiddle">&nbsp;Instagram</a>
