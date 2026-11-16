@@ -91,10 +91,11 @@ Block puzzle with five game modes, made in Godot. Android first, iOS later.<br>
 <!-- RECENT:START -->
 | Project | What it is | Updated |
 |---|---|---|
+| **[Lost Soul](https://github.com/AlparslanSemiz/lost-soul)** | Lost Soul: a dark-and-light 2D platformer built in a 3-day hackathon at KIT (ClementineJam) by a team of four. Godot 4.6. | today |
 | **[Mozaik](https://github.com/AlparslanSemiz/Mozaik)** | Offline, single-file school timetable builder. No installer, no server, no account. UI in Turkish, English, German, Spanish and French. | today |
 | **[RateMyProf](https://github.com/AlparslanSemiz/rate-my-professor)** | KIT professor-rating platform (PSE team project): Android app, Spring Boot 4 backend and React admin panel with audit log and undo. | today |
 | **[GameMetrix](https://github.com/AlparslanSemiz/Gamemetrix)** | Game scores from many sources, weighted by reliability. FastAPI and PostgreSQL backend with a server-rendered React frontend. | today |
-| **[Veda](https://github.com/AlparslanSemiz/Veda)** | Quits a Mac app when you close its last window. Menu bar app for macOS. | yesterday |
+| **[Mail Triage Bot](https://github.com/AlparslanSemiz/mail-triage-bot)** | AI email triage for Outlook: Gemini classifies new mail, Telegram sends urgent alerts and twice-daily digests. | today |
 <!-- RECENT:END -->
 
 </details>
