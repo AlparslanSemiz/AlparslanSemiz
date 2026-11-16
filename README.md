@@ -20,7 +20,7 @@ I'm Alp, a computer science student at [KIT](https://www.kit.edu) from Istanbul.
 <tr>
 <td width="50%" valign="top">
 <b><a href="https://github.com/AlparslanSemiz/Mozaik">Mozaik</a></b> &nbsp;<sub>01 · PRODUCT</sub><br>
-Offline school timetable builder in a single HTML file, in five languages. 600+ commits.<br>
+Offline school timetable builder in a single HTML file, in five languages. 1,200+ commits.<br>
 <a href="https://mozaik.alparslansemiz.com"><b>Try it →</b></a>
 </td>
 <td width="50%" valign="top">
@@ -59,7 +59,7 @@ Block puzzle with five game modes, made in Godot. Android first, iOS later.<br>
 | **[Kumanda](https://github.com/AlparslanSemiz/Kumanda)** | Use your Mac from the couch with a game controller. Steps aside when a game is in front. |
 | **[Prayer Times Widget](https://github.com/AlparslanSemiz/prayer-times-widget)** | Prayer times for wherever you are, on macOS and iOS. One network request a day. |
 
-The Mac apps install with Homebrew from [my tap](https://github.com/AlparslanSemiz/homebrew-tap).
+Şerit and Veda install with Homebrew from [my tap](https://github.com/AlparslanSemiz/homebrew-tap).
 
 ## 🎮 Games
 
@@ -92,7 +92,6 @@ The Mac apps install with Homebrew from [my tap](https://github.com/AlparslanSem
 | Project | What it is | Updated |
 |---|---|---|
 | **[Mozaik](https://github.com/AlparslanSemiz/Mozaik)** | Offline, single-file school timetable builder. No installer, no server, no account. UI in Turkish, English, German, Spanish and French. | today |
-| **[mozaik-site](https://github.com/AlparslanSemiz/mozaik-site)** | Mozaik web sürümünün yeni adresi (mozaik.alparslansemiz.com); içerik Mozaik deposunun site.yml'inden gelir | today |
 | **[RateMyProf](https://github.com/AlparslanSemiz/rate-my-professor)** | KIT professor-rating platform (PSE team project): Android app, Spring Boot 4 backend and React admin panel with audit log and undo. | today |
 | **[GameMetrix](https://github.com/AlparslanSemiz/Gamemetrix)** | Game scores from many sources, weighted by reliability. FastAPI and PostgreSQL backend with a server-rendered React frontend. | today |
 | **[Veda](https://github.com/AlparslanSemiz/Veda)** | Quits a Mac app when you close its last window. Menu bar app for macOS. | yesterday |
