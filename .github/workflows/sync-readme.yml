@@ -17,15 +17,22 @@ jobs:
       - uses: actions/checkout@v4
       - name: Fetch the generated README
         run: |
-          code=$(curl -sS -o README.new -w '%{http_code}' https://alparslansemiz.com/github/README.md)
-          if [ "$code" != 200 ]; then echo "::notice::site returned $code, nothing to sync"; rm -f README.new; exit 0; fi
+          code=$(curl -sS --retry 3 --max-time 30 -o README.new -w '%{http_code}' https://alparslansemiz.com/github/README.md || echo 000)
+          if [ "$code" = 404 ]; then echo "::notice::site has no generated README yet, nothing to sync"; rm -f README.new; exit 0; fi
+          if [ "$code" != 200 ]; then echo "::error::site returned $code"; exit 1; fi
           grep -q 'Do not edit by hand' README.new || { echo "::error::not the generated README"; exit 1; }
           mv README.new README.md
       - name: Open or update the pull request
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          if git diff --quiet; then echo "README is up to date"; exit 0; fi
+          open_pr=$(gh pr list --head readme-sync --state open --json number --jq '.[0].number // empty')
+          if git diff --quiet; then
+            echo "README is up to date"
+            # main already matches the site: an open sync PR is stale
+            [ -n "$open_pr" ] && gh pr close "$open_pr" --delete-branch --comment 'main already matches the site.'
+            exit 0
+          fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git switch -c readme-sync
@@ -33,7 +40,7 @@ jobs:
           git push -f origin readme-sync
           # Opening a pull request needs "Allow GitHub Actions to create pull requests" in the repo
           # settings; without it, an issue links the branch instead.
-          gh pr view readme-sync >/dev/null 2>&1 && exit 0
+          [ -n "$open_pr" ] && exit 0
           if ! gh pr create --head readme-sync --title 'Sync README from alparslansemiz.com' \
             --body 'Generated from https://alparslansemiz.com/github/README.md (personal-site). Merge to update the profile.'; then
             gh issue list --state open --search 'README out of sync in:title' --json number --jq '.[0].number' | grep -q . ||
