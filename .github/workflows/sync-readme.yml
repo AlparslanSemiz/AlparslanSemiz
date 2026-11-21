@@ -3,8 +3,8 @@
 # copies the generated file and opens a pull request when it changed. Never edit README.md here.
 name: sync README
 on:
-  schedule:
-    - cron: '17 6 * * *'
+  # No schedule: Cloudflare Bot Fight Mode answers GitHub runners with 403. personal-site
+  # `npm run deploy` syncs this README after every deploy; run this by hand if ever needed.
   workflow_dispatch:
 permissions:
   contents: write
