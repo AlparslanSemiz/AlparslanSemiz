@@ -26,7 +26,7 @@ A timetable builder for my father's course, in one HTML file that works offline.
 </td>
 <td width="50%" valign="top">
 <b><a href="https://github.com/AlparslanSemiz/Gamemetrix">GameMetrix</a></b> &nbsp;<sub>02 · PRODUCT</sub><br>
-One score per game, with every source weighted by how reliable it is. 50,000+ games, FastAPI on PostgreSQL, live at gamemetrix.me.<br>
+One score per game from up to four named sources; the ranking accounts for how much data exists. 50,000+ games, FastAPI on PostgreSQL, live at gamemetrix.me.<br>
 <a href="https://gamemetrix.me"><b>Open gamemetrix.me →</b></a>
 </td>
 </tr>
